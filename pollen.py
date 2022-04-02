@@ -9,3 +9,4 @@ def getPollenCount():
             return j
         except:
             continue
+    return float(9999)
